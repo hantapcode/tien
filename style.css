@@ -1,0 +1,29 @@
+body{
+    text-align: center ;
+    background: linear-gradient(to right ,rgb(105, 105, 164) ,rgb(67, 67, 161));
+}
+.fa {color:rgb(84, 167, 167) }
+.git {color :black}
+.ins { color : red ;}
+.mai { color :#bc45b8}
+.mes{ color: rgb(42, 23, 165) ;}
+img{
+    border: 2px solid red;
+    border-radius: 50% ;
+    width: 130px ;
+}
+.a{
+    margin-bottom: 10px ;
+}
+.b{
+    padding-top: 5px ;
+    width : 560px ;
+    height: 315px ;
+    background: rgb(222, 70, 191) ;
+    border-radius: 5%;
+    text-align: center;
+    margin-bottom: 10px ;
+}
+p{
+    color : white ;
+}
